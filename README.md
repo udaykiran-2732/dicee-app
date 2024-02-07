@@ -8,7 +8,7 @@ ___
 This project is a starting point for a Flutter application.
 
 ***
-## what I have learnt for this Project
+## what I have learnt from this Project
 + How to use Flutter stateless widgets to design the user interface.
 + How to use Flutter stateful widgets to update the user interface.
 + How to change the properties of various widgets.
